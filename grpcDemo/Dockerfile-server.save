@@ -1,0 +1,3 @@
+FROM grpcDemo/grpc-java/simple-grpc-server
+
+
