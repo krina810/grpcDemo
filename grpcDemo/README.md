@@ -10,3 +10,7 @@ This client server pair also supports cross languague communication.
 
 To check:
 Run server in Java and Client in Python
+
+Pre-requisite:
+Maven should be installed.
+protobuf should be installed.
